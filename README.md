@@ -48,7 +48,7 @@ This project is a Big Data Analytics application that detects ECG anomalies usin
 ## License
 This project is developed for academic purposes as part of the **Big Data Analytics** course at **Amrita Vishwa Vidyapeetham**.
 
-
+## Flow Chart
 ECG Dataset
       │
       ▼
@@ -71,7 +71,46 @@ Prediction & ECG Visualization
 
 
 
+## Project Structure
 
+backend/
+frontend/
+flask-api/
+screenshots/
+outputs/
+README.md
+
+## Sample Output
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Normal Prediction
+
+![Normal](outputs/normal_prediction.png)
+
+### Abnormal Prediction
+
+![Abnormal](outputs/abnormal_prediction.png)
+
+
+## Future Improvements
+
+- Implement deep learning models (CNN/LSTM) for higher accuracy.
+- Support multiclass arrhythmia classification.
+- Enable real-time ECG stream processing.
+- Deploy the application on cloud platforms.
+- Integrate Explainable AI (SHAP/LIME) for model interpretability.
+
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-4.0-red)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-API-black)
+![Maven](https://img.shields.io/badge/Maven-Build-blue)
 
 
 
