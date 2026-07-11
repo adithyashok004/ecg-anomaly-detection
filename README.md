@@ -1,6 +1,78 @@
 # ecg-anomaly-detection
 Real-time ECG anomaly detection using Apache Spark, Random Forest, Flask, and interactive web visualization.
 
+
+# Real-Time ECG Anomaly Detection Using Spark-Based Signal Processing
+
+## Overview
+This project is a Big Data Analytics application that detects ECG anomalies using Apache Spark and Machine Learning. It processes ECG signals, extracts statistical features, and predicts whether the ECG is **Normal** or **Abnormal** using a Random Forest classifier. The system also includes a Flask API and a web interface for real-time ECG analysis. :contentReference[oaicite:0]{index=0}
+
+## Features
+- Real-time ECG anomaly detection
+- Apache Spark-based distributed processing
+- Random Forest classification
+- Flask REST API
+- Interactive web interface
+- ECG waveform visualization using Chart.js :contentReference[oaicite:1]{index=1}
+
+## Technologies Used
+- Apache Spark
+- Java
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Chart.js
+- Maven
+
+## Project Workflow
+1. Load ECG dataset
+2. Preprocess ECG signals
+3. Extract statistical features
+4. Train Random Forest model
+5. Predict Normal/Abnormal ECG
+6. Display prediction and ECG waveform on the web interface :contentReference[oaicite:2]{index=2}
+
+## Dataset
+- PhysioNet 2017 ECG Dataset
+
+
+## Future Improvements
+- Deep Learning (CNN/LSTM)
+- Real-time ECG streaming
+- Multi-class arrhythmia detection
+- Cloud deployment
+- Explainable AI integration :contentReference[oaicite:4]{index=4}
+
+## License
+This project is developed for academic purposes as part of the **Big Data Analytics** course at **Amrita Vishwa Vidyapeetham**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 IUser-Interface Design
 
 <!DOCTYPE html>
