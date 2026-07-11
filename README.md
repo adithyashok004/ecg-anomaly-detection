@@ -97,6 +97,7 @@ README.md
 ### ECG Waveform Visualization
 
 ![ECG Waveform](screenshots/low_waveform.png)
+![ECG Waveform](screenshots/high_waveform.png)
 
 
 ## Future Improvements
