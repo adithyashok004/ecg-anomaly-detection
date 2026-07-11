@@ -49,7 +49,25 @@ This project is a Big Data Analytics application that detects ECG anomalies usin
 This project is developed for academic purposes as part of the **Big Data Analytics** course at **Amrita Vishwa Vidyapeetham**.
 
 
-
+ECG Dataset
+      │
+      ▼
+Apache Spark
+      │
+      ▼
+Feature Extraction
+      │
+      ▼
+Random Forest Model
+      │
+      ▼
+Flask API
+      │
+      ▼
+Web Interface
+      │
+      ▼
+Prediction & ECG Visualization
 
 
 
