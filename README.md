@@ -84,15 +84,19 @@ README.md
 
 ### Home Page
 
-![Home](screenshots/home.png)
+![Home Page](screenshots/Homepage.png)
 
 ### Normal Prediction
 
-![Normal](outputs/normal_prediction.png)
+![Normal Prediction](screenshots/Normal.png)
 
 ### Abnormal Prediction
 
-![Abnormal](outputs/abnormal_prediction.png)
+![Abnormal Prediction](screenshots/Abnormal.png)
+
+### ECG Waveform Visualization
+
+![ECG Waveform](screenshots/low_waveform.png)
 
 
 ## Future Improvements
